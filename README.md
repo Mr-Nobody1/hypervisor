@@ -32,7 +32,7 @@ We are not affiliated with any forum, developer, or software vendor.
 | **Unpacked Size** | ~89.7 MB |
 | **Date Analyzed** | February 28, 2026 |
 | **Verdict** | ✅ **SAFE** |
-| **Analyst** | Antigravity |
+| **Analyst** | Claude, Codex |
 
 **Contents analyzed:**
 - `HypervisorIntelSource/` — HyperDbg-based Intel hypervisor source
